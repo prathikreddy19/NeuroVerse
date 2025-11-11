@@ -210,7 +210,7 @@ const LandingPage = ({ isDark }) => {
               <ArrowRight className="relative w-5 h-5 group-hover:translate-x-2 transition-transform duration-300" />
             </a>
             <a
-              href="/vbt-inference"
+              href="/patient"
               className={`relative px-10 py-5 rounded-2xl font-bold text-lg transition-all duration-500 hover:scale-105 group overflow-hidden ${
                 isDark 
                   ? 'bg-white/10 text-white hover:bg-white/20 border-2 border-white/30 shadow-xl' 
